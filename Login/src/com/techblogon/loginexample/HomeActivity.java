@@ -1,4 +1,3 @@
-package com.techblogon.loginexample;
 
 import android.app.Activity;
 import android.app.Dialog;
